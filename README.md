@@ -1,4 +1,4 @@
-# Noxavand Releases
+# Noxavand (AI Expense Tracker)
 
 **Noxavand** is a free AI expense tracker.
 
@@ -20,7 +20,7 @@ Click the link below to download the installer:
 
 ## Explanation
 
-- **Local Storage**: All financial transactions and databases are stored on the local machine (`%APPDATA%/Noxavand/`).
+- **Local Storage**: All financial transactions and databases are stored on the local drive.
 - **Bring Your Own Key (BYOK)**: Connect your own API keys (Google Gemini, Groq, GitHub Models, or OpenRouter) directly.
 - **MCP Support**: Connect external AI hosts directly to local database.
 
